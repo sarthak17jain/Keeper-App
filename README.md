@@ -4,7 +4,7 @@
 •	Used React hooks, React props, state management and conditional rendering.<br>
 
 Live Link:<br>
-(https://beautiful-medovik-2e6385.netlify.app/)
+https://beautiful-medovik-2e6385.netlify.app/
 
 To install web app locally:
 Download repository <br>

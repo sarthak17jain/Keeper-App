@@ -7,6 +7,6 @@ Live Link:<br>
 https://beautiful-medovik-2e6385.netlify.app/
 
 To install web app locally:<br>
-Download repository <br>
-Open command prompt and type:<br>
+Download or clone repository to local machine<br>
+Open command prompt inside the repository and type:<br>
 npm install
